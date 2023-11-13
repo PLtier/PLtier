@@ -4,7 +4,7 @@ Hi, I'm Maciej, guy behind [StraightenUp](https://chromewebstore.google.com/deta
 I think most important branches of informatics are ML, cybersecurity and brain-computer interfaces.
 
 PS.
-Currently I'm looking for a student job within data science.
+Currently I'm looking for a student job within IT
 
 <!--
 **PLtier/PLtier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
