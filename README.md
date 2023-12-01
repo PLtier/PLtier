@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![alt text](./hc_banner.jpg)
 Hi, I'm Maciej, guy behind [StraightenUp](https://chromewebstore.google.com/detail/straightenup-ai-ai-postur/nfhoegpkonllcaghgmhdmcpmebmocokf). I work with Javascript and Python. Feel free to search around my repositories! 
-I think most important branches of informatics are ML, cybersecurity and brain-computer interfaces.
+I think most important branches of informatics are ML, cybersecurity and brain-computer interfaces, but I do love web development and general IT tech things.
 
 My most recent on classification IT Technician questions into categories: [NLP project](https://github.com/PLtier/small-ds-projects/tree/main/NLP%20Exploration) and
 [Other DS projects](https://github.com/PLtier/small-ds-projects)
