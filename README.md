@@ -2,7 +2,7 @@
 ![alt text](./hc_banner.jpg)
 Hi, I'm Maciej, guy behind [StraightenUp](https://chromewebstore.google.com/detail/straightenup-ai-ai-postur/nfhoegpkonllcaghgmhdmcpmebmocokf). I also contributed to [WięcejDobra](https://www.wiecejdobra.pl/), a website where you can donate to most effective charities in the world. I work with Python and Golang for Data Science projects, in the past I worked a lot with JavaScript.
 
-I'm currently trying not to multitask.
+I try not to multitask.
 
 
 
